@@ -18,7 +18,6 @@ Welcome to the repository for the prebuilt Flare VM OVA file. Flare VM is a free
 1. Import the OVA file into your virtualization software.
 2. Configure the virtual machine settings (e.g., RAM, CPU, networking).
 3. Start the virtual machine.
-4. Follow the setup instructions provided with Flare VM to customize your environment.
 
 ## License
 
