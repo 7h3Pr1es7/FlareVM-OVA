@@ -5,7 +5,6 @@ Welcome to the repository for the prebuilt Flare VM OVA file. Flare VM is a free
 ## System Requirements & Other Details
 
 - This Version is prepared on 11 October 2023 and using Virtualbox
-- This Version is Built on Top of VirtualBox
 - Minimum of 4GB RAM (8GB recommended)
 - Adequate disk space for the virtual machine image
 - Username - flarevm
