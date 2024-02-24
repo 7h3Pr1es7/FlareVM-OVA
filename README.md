@@ -1,5 +1,3 @@
-# FlareVM-OVA
-
 # Prebuilt Flare VM OVA File
 
 Welcome to the repository for the prebuilt Flare VM OVA file. Flare VM is a freely available Windows-based security distribution for malware analysis, incident response, and threat hunting. This prebuilt OVA file allows you to quickly set up a Flare VM environment in your virtualization software. To get started, download the prebuilt OVA file from the Mediafire link [releases](https://github.com/your-username/your-repository/releases). Once downloaded, import the OVA file into your preferred virtualization software (e.g., VirtualBox) to create a new virtual machine.
